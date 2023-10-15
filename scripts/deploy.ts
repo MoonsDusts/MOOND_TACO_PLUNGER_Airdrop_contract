@@ -4,7 +4,7 @@ import tacon from "../args/taconHolder";
 import plunger from "../args/plungerHolder";
 
 async function main() {
-  const airdrop = await ethers.deployContract("Airdrop", ['0x6693Cd1f198611Fe5592F2A94eB43fB26eDcEE8e']);
+  const airdrop = await ethers.deployContract("Airdrop", ['0x4b2576BC44310D6dfb4cfCf2630f25190fc60803']);
 
   await airdrop.waitForDeployment();
 

@@ -1,9 +1,5 @@
 export default [
   {
-    'address': '0xd52c556EcBd260CF3BF5B78F3F94d6878939ADf7',
-    'balance': '5000000',
-  },
-  {
     "address": "0x00e50534989eaf62005c7fe00862e9079ef459cc",
     "balance": "14390146.1591195"
   },
@@ -17,7 +13,7 @@ export default [
   },
   {
     "address": "0x0297fbfe06cbeefe9980446aa1e7e67180d40a72",
-    "balance": "5000000"
+    "balance": "3728936.886837280549447237"
   },
   {
     "address": "0x02c8b0427d689e1908fd451db4032ffb623c7d4f",
@@ -33,7 +29,7 @@ export default [
   },
   {
     "address": "0x039fcb8210331ea4adc3981e379c1f46600bcad9",
-    "balance": "778448.275862069"
+    "balance": "1527126.696855483856028169"
   },
   {
     "address": "0x03ac67621ef0801d6334c20a51cfd29a3769e8ec",
@@ -68,12 +64,16 @@ export default [
     "balance": "4506899.82272575"
   },
   {
+    "address": "0x0b3a138674ecbc4145a50839489741fb92f3de96",
+    "balance": "1167515.833338083254959215"
+  },
+  {
     "address": "0x0b588be805039fa28cf4625281b6ce14635a5f9c",
     "balance": "49.411760326245776892"
   },
   {
     "address": "0x0b94565f1d58ea005e250119c658e020d9591ae1",
-    "balance": "2022574.093570495116132821"
+    "balance": "0.000000000027100415"
   },
   {
     "address": "0x0bf4169263c4ab45e6bbfdec953eb046fb1fe839",
@@ -105,7 +105,7 @@ export default [
   },
   {
     "address": "0x0f178370bd5f68003c107527143c3a082134f966",
-    "balance": "25760294.101660013920950151"
+    "balance": "23760294.101660013920950151"
   },
   {
     "address": "0x0fda872060232ca23a211907e83d41a3e683c043",
@@ -113,7 +113,7 @@ export default [
   },
   {
     "address": "0x1039c96fd9c7dc80c214677feb286acc88de4c29",
-    "balance": "14179729.540583253566234126"
+    "balance": "10621696.868911134741740756"
   },
   {
     "address": "0x10716882c0710ce31609b8206d5aea7e2d8162f8",
@@ -145,7 +145,7 @@ export default [
   },
   {
     "address": "0x177dc04442ead8f5923926739e465b59991807c0",
-    "balance": "0.000000000000002204"
+    "balance": "21809504.562916624322401442"
   },
   {
     "address": "0x17d9afc6ade512dc6f0c76bdd81bebd2261aead6",
@@ -193,7 +193,7 @@ export default [
   },
   {
     "address": "0x2151dd6f5ad345439508b96c9122d4ee907463ff",
-    "balance": "0.000000000032954408"
+    "balance": "189405.77986271305996293"
   },
   {
     "address": "0x21a7bd1dd5cf177c99caf2436b4930586ab40e45",
@@ -244,8 +244,12 @@ export default [
     "balance": "117530.949993126459733482"
   },
   {
+    "address": "0x297c1736c0951c3f94a696f1968736c8bf4370c9",
+    "balance": "2456347.15025906"
+  },
+  {
     "address": "0x2a180f34391c7866e4f93da11f81d89677e1ab5c",
-    "balance": "4122906.95687652706461521"
+    "balance": "4617479.566905230734726342"
   },
   {
     "address": "0x2bd14225493a09bbdd7f36df54532a3ee03f1910",
@@ -264,8 +268,16 @@ export default [
     "balance": "5121482.71403945"
   },
   {
+    "address": "0x2ef093900e2fcbbae69ab3bb74b38948ad5182ea",
+    "balance": "588547.486033519"
+  },
+  {
     "address": "0x2ff9b46d4d333d360a011662436b20770abae04c",
     "balance": "6727.33077905492"
+  },
+  {
+    "address": "0x30b5700d19103a7819ec097275fe23ae1c645c94",
+    "balance": "24558142.4629791"
   },
   {
     "address": "0x321b9448382bc3b4328ae844882d0ab181807a18",
@@ -293,7 +305,7 @@ export default [
   },
   {
     "address": "0x3601cfea89c813adefb0f623743d0b2a7c5736bf",
-    "balance": "1792095.410018262553469145"
+    "balance": "1500095.410018262553469145"
   },
   {
     "address": "0x37ec8302dbda3867de22a3215d2921110f32cfc9",
@@ -368,6 +380,10 @@ export default [
     "balance": "3055966.456044471"
   },
   {
+    "address": "0x45548d41bb8ed8d155efeb83073253f73c2ce737",
+    "balance": "602002.147591629"
+  },
+  {
     "address": "0x4578528e956c9000ceda058eb95c0b89adc08f89",
     "balance": "1823587.16475096"
   },
@@ -390,6 +406,10 @@ export default [
   {
     "address": "0x482ab5033febbc204a2537674c162705c4a893b7",
     "balance": "1051866.21966794"
+  },
+  {
+    "address": "0x48491624c8be2e82ef1a32e007073ab3eae3d858",
+    "balance": "13581147.5729223"
   },
   {
     "address": "0x4ace3c0a902c1dc1249ff4d422e4370d6a76f1b7",
@@ -420,6 +440,10 @@ export default [
     "balance": "8.047551633029169748"
   },
   {
+    "address": "0x4fdd3a77b34dcb3fc3a8e640f44398efa6996dd5",
+    "balance": "1184967.10038491"
+  },
+  {
     "address": "0x510c3b81cb2ea48b70e412e69a41bd16e29db74d",
     "balance": "0.00000000000066742"
   },
@@ -437,7 +461,7 @@ export default [
   },
   {
     "address": "0x526bb6e639ba6c4ad313debdf7d8e61d3350cf65",
-    "balance": "20400000.921521642562400398"
+    "balance": "17400000.921521642562400398"
   },
   {
     "address": "0x5297d9e1240cf21c5cf7fe6aa476d95cfcaffc2c",
@@ -466,6 +490,10 @@ export default [
   {
     "address": "0x5a5f8c03e8fef17662466b098a6628a6b7a311a0",
     "balance": "3961020.47745318020736059"
+  },
+  {
+    "address": "0x5a7a5e11bc8fbbdab7aed9c30e06a1bc524f94aa",
+    "balance": "429368.335199261761858665"
   },
   {
     "address": "0x5abd32773d27f137603925dc681eeccd413936d5",
@@ -512,6 +540,10 @@ export default [
     "balance": "8986167.77071896"
   },
   {
+    "address": "0x652dd3a15e85c93abf63e4729edcc9132fafefd0",
+    "balance": "5489987.202895314765103338"
+  },
+  {
     "address": "0x655cdbb013b6bce0f7ba1f0992ca9874277833f1",
     "balance": "1850409.83606557"
   },
@@ -533,7 +565,7 @@ export default [
   },
   {
     "address": "0x67e1a1475231fb0bc909831570396b041977e142",
-    "balance": "1000"
+    "balance": "2051552.67246667"
   },
   {
     "address": "0x67ef1da6a8cf5fe5089874f3175ea09e7f8d1ca1",
@@ -556,10 +588,6 @@ export default [
     "balance": "22867055.442390469040547321"
   },
   {
-    "address": "0x6957f5f90a0b32d61d853a733901b31d0b231733",
-    "balance": "49500000.3470801"
-  },
-  {
     "address": "0x69655c28f9bffd058805afd8b3b9117015eefdb9",
     "balance": "36277.4518527372"
   },
@@ -577,7 +605,7 @@ export default [
   },
   {
     "address": "0x6c1c420c04f4d563d6588a97693af902b87be5f1",
-    "balance": "2655.566026964082717325"
+    "balance": "7020.061593332778005934"
   },
   {
     "address": "0x6c2fb5d8528243a88d404011397066c76765dae1",
@@ -594,6 +622,10 @@ export default [
   {
     "address": "0x6dff2b8bbabeb98aadc47ca38b1df5063d16e208",
     "balance": "4688977.82225967"
+  },
+  {
+    "address": "0x6f16ee2eb8d9365028a98f6162e0dcd54cb0a866",
+    "balance": "1556896.55172413"
   },
   {
     "address": "0x7021bcc7c13f241cd1ee0412ea8b6bb8b64d0229",
@@ -661,7 +693,7 @@ export default [
   },
   {
     "address": "0x7d13d97de7b636e5873dddf3c815d2312d6f9049",
-    "balance": "42571813.785647611631165788"
+    "balance": "50018498.755068178598629322"
   },
   {
     "address": "0x7d84260958eb275a29c3805679ba2dfa480dd802",
@@ -817,7 +849,7 @@ export default [
   },
   {
     "address": "0x9f36bdea2c742f05ca3c27109a140b776b8367c5",
-    "balance": "2949176.339802819249621789"
+    "balance": "3013927.196484684213150157"
   },
   {
     "address": "0xa0a1809003aa2ee362ba0640e92d514c89b1d943",
@@ -848,6 +880,10 @@ export default [
     "balance": "618097.607107202"
   },
   {
+    "address": "0xa6e0c444195622b74c8c52c5262c55ddef48a40a",
+    "balance": "1045138.88888888"
+  },
+  {
     "address": "0xa770fd77de7619b10301714c7733133b4a520210",
     "balance": "1259632.966123491391849932"
   },
@@ -865,7 +901,7 @@ export default [
   },
   {
     "address": "0xa8bbf21cb03c24251ad860dc375c6ea98f557e31",
-    "balance": "225749999.99999972636"
+    "balance": "162303222.88166182836"
   },
   {
     "address": "0xa930402f66e26cd791b20849415808c3b88854a9",
@@ -985,7 +1021,7 @@ export default [
   },
   {
     "address": "0xbd098db9ad3dbaf2bdaf581340b2662d9a3ca8d2",
-    "balance": "112741.836183927554381026"
+    "balance": "118399.925199806391546184"
   },
   {
     "address": "0xbd40d4ca675d7c5d6db11b24b6c45604d4242f68",
@@ -1005,7 +1041,7 @@ export default [
   },
   {
     "address": "0xc1c41cc93e5f18f6e77c3f5f7240cd5692fb4825",
-    "balance": "5023291.74806676285694999"
+    "balance": "7355345.474419648691124871"
   },
   {
     "address": "0xc1de5c4cc6adbadb083c04493e0a66cd021c9eb3",
@@ -1013,7 +1049,7 @@ export default [
   },
   {
     "address": "0xc2568fe751d274e20008bbadc0da8553c44fe52a",
-    "balance": "1500000"
+    "balance": "49760.819842874164942472"
   },
   {
     "address": "0xc2f054b40c188fb17c5bf452439aef6faba06e5c",
@@ -1021,7 +1057,11 @@ export default [
   },
   {
     "address": "0xc313c8257ff407926a67ae48fefb68116de8129c",
-    "balance": "4000000.20599259"
+    "balance": "19823035.29108029"
+  },
+  {
+    "address": "0xc340a1f8bbacf794e947eaf0919c7adab7771e40",
+    "balance": "49500000.3470801"
   },
   {
     "address": "0xc3fc3e2075d5327b393746b997b6dd9063608199",
@@ -1048,6 +1088,10 @@ export default [
     "balance": "5285348.09858782"
   },
   {
+    "address": "0xc7e817e5970e294e269ff63214393747cc1af1cb",
+    "balance": "2540.20292127837169978"
+  },
+  {
     "address": "0xc8c3b812430aac2e5d9306eb7632dcf93978bf10",
     "balance": "1000000"
   },
@@ -1064,8 +1108,12 @@ export default [
     "balance": "2466201.44590395"
   },
   {
+    "address": "0xcc0502ab76ed21cc8931693767ca2b2d09bc1ade",
+    "balance": "1911733.965304932786901439"
+  },
+  {
     "address": "0xcce526eed40e48f74c08611e4d3e82fed06f1b65",
-    "balance": "690000.000320851049654991"
+    "balance": "1781742.392240039621041529"
   },
   {
     "address": "0xcd27d1980179c2a2c3496f3c9262f1d22b9780c7",
@@ -1089,7 +1137,7 @@ export default [
   },
   {
     "address": "0xd0013d0d6afcc1ad69a8a5d898a178c5ec03af4b",
-    "balance": "5074408.19536669"
+    "balance": "2500000.19536669"
   },
   {
     "address": "0xd0624a047548b54b02b28e920e7bf77811fee3b0",
@@ -1117,7 +1165,7 @@ export default [
   },
   {
     "address": "0xd4ccaed420d391930f153b6bf69c365835db0a19",
-    "balance": "579169.94055369"
+    "balance": "1388255.475004502168216941"
   },
   {
     "address": "0xd57e4558ee66410795839f3c02a01113e0f2c7fc",
@@ -1193,7 +1241,7 @@ export default [
   },
   {
     "address": "0xe8863494ebfbf800fdd0a009022be2a715ec329a",
-    "balance": "404507.30800784024150409"
+    "balance": "400000.30800784024150409"
   },
   {
     "address": "0xe9f5e72cf16baaab0a9ba895cfb9c7e8f33d9f36",
@@ -1241,7 +1289,7 @@ export default [
   },
   {
     "address": "0xf1fbc14a138f4db10118494a245b43b602c6e579",
-    "balance": "409899.507526584183594972"
+    "balance": "3859899.507526584183594972"
   },
   {
     "address": "0xf2598f85217421173cd965bbd811e3e29600cdf0",
@@ -1282,6 +1330,10 @@ export default [
   {
     "address": "0xf8386696888566ad3ccd08a468d5da671da67ff5",
     "balance": "1000.9438036823"
+  },
+  {
+    "address": "0xfa332913f512eb5a36dacb4038980d5f75009fb6",
+    "balance": "250000.000000000000000001"
   },
   {
     "address": "0xfc25a6c12b7c9404c3d66741789e29ccf897182d",
